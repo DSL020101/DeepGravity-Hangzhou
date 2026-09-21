@@ -1,0 +1,133 @@
+{
+  "source_geojson": "C:\\Users\\40185\\Documents\\Codex\\2026-09-16\\https-github-com-scikit-mobility-deepgravity\\outputs\\hangzhou_osm_boundary_check\\hangzhou_osm_admin_boundaries.geojson",
+  "hangzhou_area_km2": 16888.953710309863,
+  "levels": [
+    {
+      "admin_level": "10",
+      "count": 18,
+      "valid_count": 18,
+      "coverage_of_hangzhou_percent": 0.2839787949422578,
+      "uncovered_hangzhou_km2": 16840.99266308497,
+      "outside_hangzhou_km2": 0.0,
+      "same_level_overlap_km2": 0.0,
+      "area_km2_min": 0.2313613013669338,
+      "area_km2_median": 0.8391660033846658,
+      "area_km2_max": 17.915815766439184
+    },
+    {
+      "admin_level": "5",
+      "count": 1,
+      "valid_count": 1,
+      "coverage_of_hangzhou_percent": 100.00000000000016,
+      "uncovered_hangzhou_km2": 0.0,
+      "outside_hangzhou_km2": 0.0,
+      "same_level_overlap_km2": 0.0,
+      "area_km2_min": 16888.953710309863,
+      "area_km2_median": 16888.953710309863,
+      "area_km2_max": 16888.953710309863
+    },
+    {
+      "admin_level": "6",
+      "count": 13,
+      "valid_count": 13,
+      "coverage_of_hangzhou_percent": 100.00000000000043,
+      "uncovered_hangzhou_km2": 0.0,
+      "outside_hangzhou_km2": 0.0,
+      "same_level_overlap_km2": 0.0,
+      "area_km2_min": 72.31868853232787,
+      "area_km2_median": 941.92546560201,
+      "area_km2_max": 4431.636950285774
+    },
+    {
+      "admin_level": "8",
+      "count": 191,
+      "valid_count": 191,
+      "coverage_of_hangzhou_percent": 99.12809727831413,
+      "uncovered_hangzhou_km2": 147.25524706445884,
+      "outside_hangzhou_km2": 0.0,
+      "same_level_overlap_km2": 0.004323965087890625,
+      "area_km2_min": 1.2187051394149813,
+      "area_km2_median": 60.3040443606117,
+      "area_km2_max": 416.62084262148034
+    },
+    {
+      "admin_level": "9",
+      "count": 2,
+      "valid_count": 2,
+      "coverage_of_hangzhou_percent": 0.8715801559620215,
+      "uncovered_hangzhou_km2": 16741.75294122119,
+      "outside_hangzhou_km2": 0.0,
+      "same_level_overlap_km2": 1.1920928955078124e-13,
+      "area_km2_min": 28.697082908965037,
+      "area_km2_median": 118.50368617970744,
+      "area_km2_max": 118.50368617970744
+    }
+  ],
+  "admin_level_8_by_district": [
+    {
+      "district": "上城区",
+      "district_osm_id": 4591409,
+      "admin_level_8_count": 14
+    },
+    {
+      "district": "临安区",
+      "district_osm_id": 3221181,
+      "admin_level_8_count": 18
+    },
+    {
+      "district": "临平区",
+      "district_osm_id": 3221184,
+      "admin_level_8_count": 8
+    },
+    {
+      "district": "余杭区",
+      "district_osm_id": 12555971,
+      "admin_level_8_count": 12
+    },
+    {
+      "district": "富阳区",
+      "district_osm_id": 3221180,
+      "admin_level_8_count": 24
+    },
+    {
+      "district": "建德市",
+      "district_osm_id": 3221113,
+      "admin_level_8_count": 16
+    },
+    {
+      "district": "拱墅区",
+      "district_osm_id": 4591384,
+      "admin_level_8_count": 18
+    },
+    {
+      "district": "桐庐县",
+      "district_osm_id": 3221182,
+      "admin_level_8_count": 14
+    },
+    {
+      "district": "淳安县",
+      "district_osm_id": 3125919,
+      "admin_level_8_count": 23
+    },
+    {
+      "district": "滨江区",
+      "district_osm_id": 3221179,
+      "admin_level_8_count": 3
+    },
+    {
+      "district": "萧山区",
+      "district_osm_id": 3221183,
+      "admin_level_8_count": 22
+    },
+    {
+      "district": "西湖区",
+      "district_osm_id": 4591410,
+      "admin_level_8_count": 12
+    },
+    {
+      "district": "钱塘区",
+      "district_osm_id": 10724589,
+      "admin_level_8_count": 7
+    }
+  ]
+}

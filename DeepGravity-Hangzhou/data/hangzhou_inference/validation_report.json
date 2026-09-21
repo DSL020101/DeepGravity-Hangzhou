@@ -1,0 +1,18 @@
+{
+  "dataset": "hangzhou_inference",
+  "output_areas": 191,
+  "tiles": 1,
+  "feature_count": 18,
+  "population_sum": 16475334.379999984,
+  "observed_flow_rows": 0,
+  "population_carrier_rows": 191,
+  "all_geometries_present": true,
+  "all_populations_positive": true,
+  "all_features_finite": true,
+  "collector_stats": {
+    "nodes": 39474,
+    "roads": 521130,
+    "areas": 156586,
+    "geometry_errors": 103
+  }
+}

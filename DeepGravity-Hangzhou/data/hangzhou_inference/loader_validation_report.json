@@ -1,0 +1,24 @@
+{
+  "dataset_dir": "data/hangzhou_inference",
+  "original_loader_succeeded": true,
+  "output_areas": 191,
+  "test_origins": 191,
+  "feature_vector_width_without_population": 18,
+  "model_input_width": 39,
+  "population_sum_from_loader": 16475334.379999992,
+  "population_sum_from_source": 16475334.379999997,
+  "population_sums_match": true,
+  "observed_od_dictionary_rows": 0,
+  "sample_target_sum": 0.0,
+  "sample_origin": "HZ_6652680",
+  "sample_tensor_shape": [
+    1,
+    191,
+    39
+  ],
+  "checkpoint_loaded": true,
+  "probability_sum": 0.9999998807907104,
+  "probability_min": 4.484155085839415e-44,
+  "probability_max": 0.3289264738559723,
+  "all_sample_features_finite": true
+}

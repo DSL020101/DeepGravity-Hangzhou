@@ -1,0 +1,51 @@
+{
+  "feature_order": [
+    "commercial_landuse",
+    "food_point",
+    "food_polygon",
+    "health_point",
+    "health_polygon",
+    "industrial_landuse",
+    "main_road_line",
+    "natural_landuse",
+    "other_road_line",
+    "residential_landuse",
+    "residential_road_line",
+    "retail_landuse",
+    "retail_point",
+    "retail_polygon",
+    "education_point",
+    "education_polygon",
+    "transport_point",
+    "transport_polygon"
+  ],
+  "geometry_measurement_compatibility": "Polygon areas in WGS84 degree^2 and road lengths in WGS84 degrees are divided by zone area in m^2 to match the scale of the repository's New York features; POI and facility polygons are raw counts.",
+  "road_classes": {
+    "residential": [
+      "residential",
+      "living_street"
+    ],
+    "main": [
+      "motorway",
+      "motorway_link",
+      "primary",
+      "primary_link",
+      "secondary",
+      "secondary_link",
+      "tertiary",
+      "tertiary_link",
+      "trunk",
+      "trunk_link"
+    ],
+    "other": "all remaining non-construction highway=* ways"
+  },
+  "population": "WorldPop R2025A 2020 1km polygon totals",
+  "flows": "Observed OD flows are not available. flows.csv and od2flow.pkl are intentionally empty; do not train or calculate CPC with this dataset.",
+  "processed_flows_oa": "Contains one synthetic self-loop per area solely to pass WorldPop totals through the repository's population-from-flows loader. These rows are not observed commuting flows.",
+  "collector_stats": {
+    "nodes": 39474,
+    "roads": 521130,
+    "areas": 156586,
+    "geometry_errors": 103
+  }
+}

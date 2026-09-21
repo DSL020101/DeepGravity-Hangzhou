@@ -1,0 +1,15 @@
+{
+  "dataset": "hangzhou_inference",
+  "model": "DeepGravity NN_MultinomialRegression",
+  "weights": "New York checkpoint transferred to Hangzhou",
+  "checkpoint": "deepgravity\\results\\model_DG_new_york.pt",
+  "device": "cpu",
+  "origins": 191,
+  "destinations": 191,
+  "od_probability_rows": 36481,
+  "model_input_width": 39,
+  "observed_hangzhou_od_rows": 0,
+  "probability_sum_min_by_origin": 0.999999791295168,
+  "probability_sum_max_by_origin": 1.0000002125039227,
+  "warning": "These are New-York-to-Hangzhou transfer probabilities, not Hangzhou-calibrated flows."
+}
